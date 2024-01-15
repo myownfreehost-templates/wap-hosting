@@ -1,1 +1,1 @@
-# wap-hosting
+# hosting http://uk.ke
